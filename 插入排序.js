@@ -1,6 +1,5 @@
-function insertSort(len) {
-    let len = arr.length
-    for(let i = 0; i < len; i++) {
+function insertSort(arr)) {
+    for(let i = 0, len=arr.length; i < len; i++) {
         for(let j = i; j > 0; j --) {
             if(a[j] < [i]) {
                 [arr[i], arr[j]] = [arr[j], arr[i]]
