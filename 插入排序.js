@@ -13,7 +13,7 @@ function insertSort(len) {
 }
 
 
-var arr = [23, 44, 23, 90, 87, 100]
+var arr = [23, 44, 23, 90, 87, 200]
 var result = insertSort(arr)
 console.log(result)
 
